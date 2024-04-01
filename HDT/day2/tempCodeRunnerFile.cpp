@@ -1,0 +1,1 @@
+ // float *p; *p=_price;
